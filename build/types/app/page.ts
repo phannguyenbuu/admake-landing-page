@@ -1,4 +1,4 @@
-// File: C:\Users\kienk\OneDrive\Desktop\Admake\admake-new\landingpage\app\page.tsx
+// File: D:\Dropbox\_Documents\_Vlance_2025\November\landing-page\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
