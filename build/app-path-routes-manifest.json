@@ -1,5 +1,5 @@
 {
-  "/api/lead/route": "/api/lead",
   "/_not-found/page": "/_not-found",
+  "/api/lead/route": "/api/lead",
   "/page": "/"
 }
