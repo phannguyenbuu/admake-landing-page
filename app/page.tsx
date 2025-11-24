@@ -331,7 +331,7 @@ export default function Page() {
           <h2 className="text-center text-2xl font-bold md:text-3xl">Bảng giá của ADMAKE</h2>
           <div className="mx-auto mt-8 aspect-[16/7] w-full max-w-5xl overflow-hidden rounded-xl border-4 border-black/10 bg-white shadow">
             <Image
-              src="/A1.png"
+              src="/price.webp"
               alt="Ảnh chụp giao diện phần mềm"
               width={1040}
               height={420}
